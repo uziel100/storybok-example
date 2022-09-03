@@ -1,7 +1,7 @@
 import React from 'react';
 import './myLabel.css';
 
-interface MyLabelProps {
+export interface MyLabelProps {
     /**
      * Label content
      */
